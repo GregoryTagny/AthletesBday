@@ -6,3 +6,5 @@ Most athletes were born on the 1st part of the year due to the age segregation. 
 The equal share of player's valuation among quarters and days of the week confirm this theory. 
 
 https://public.tableau.com/profile/gregory.tagny#!/vizhome/PlayersBday-Countries/PlayerOrignDB
+
+https://public.tableau.com/profile/gregory.tagny#!/vizhome/PlayersBday/PlayerOrignDB?publish=yes
